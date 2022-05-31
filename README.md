@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kakai-Lilian
 - 👀 I’m interested in android mobile application development
 - 🌱 I’m currently learning information technology
-- 💞️ I’m looking to collaborate on building an application
+- 💞️ I’m looking to collaborate on building an application.
 - 📫 How to reach me kakaililian42@gmail.com
 
 <!---
